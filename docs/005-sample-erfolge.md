@@ -5,9 +5,6 @@ title: "Beispiele: Erfolge"
 
 import useBaseUrl from '@docusaurus/useBaseUrl'; // Add to the top of the file below the front matter.
 
-...
-
-
 ### Erfolge erstellen
 
 - um Erfolge zu erstellen müssen Sie zunächst Veranstaltungen hinzugefügt haben.
