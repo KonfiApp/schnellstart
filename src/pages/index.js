@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Unkompliziert durchstarten</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    // imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
         Diese Seite ist dafür gedacht, um die KonfiApp Ihrer Gemeinde schnell startklar zu machen.
@@ -18,7 +18,7 @@ const features = [
   },
   {
     title: <>Basics + FAQ</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    // imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
          Hier lernen Sie die Basics der KonfiApp und finden Antworten auf einfache Fragen.
@@ -27,7 +27,7 @@ const features = [
   },
   {
     title: <>Support</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    // imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
         Falls Sie hier nicht weiterkommen, <a href="mailto:konfiapp@philippdormann.de">kontaktieren Sie mich!</a>
@@ -62,6 +62,7 @@ function Home() {
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <p><b>Hinweis: </b>Diese Seite befindet sich gerade noch im Aufbau...</p>
           <div className={styles.buttons}>
             <Link
               className={classnames(
