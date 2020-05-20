@@ -46,7 +46,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} <a href="https://konfiapp.de">KonfiApp</a>.<br>built with 🔥 + 💙<br>powered by Docusaurus 🦖.`,
+      copyright: `Copyright © ${new Date().getFullYear()} <a href="https://konfiapp.de">KonfiApp</a>. Alle Rechte vorbehalten.<br>built with 🔥 + 💙<br>powered by Docusaurus 🦖.`,
     },
   },
   presets: [
