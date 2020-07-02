@@ -13,13 +13,15 @@ import useBaseUrl from '@docusaurus/useBaseUrl'; // Add to the top of the file b
 - Google Play Store: https://play.google.com/store/apps/details?id=de.philippdormann.konfiapp
 - Apple AppStore: https://apps.apple.com/de/app/konfiapp/id1435105031
 
-### Anmeldung
+## Anmeldung in der KonfiApp (Konfis)
 - Die Konfis melden sich in der App mit ihrem Benutzernamen an.
+
+***
 
 ## mobile Verwaltung ("KonfiApp Verwaltung")
 - Google Play Store: https://play.google.com/store/apps/details?id=de.konfiapp.verwaltung
 - Apple AppStore: https://apps.apple.com/de/app/konfiapp-verwaltung/id1483833987
 
-### Anmeldung
+## Anmeldung in der Verwaltungs-App
 - Geben Sie der Verwaltungs-App für die korrekte Funktionalität bitte alle Berechtigungen
 - Melden Sie sich in der Verwaltungs-App mit Ihrem Benutzernamen und Passwort der Verwaltung an
