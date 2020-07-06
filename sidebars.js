@@ -15,6 +15,7 @@ module.exports = {
     "allgemeine-anleitung-gruppen",
     "weitere-infos-und-formulare",
     "nutzer-einladen",
+    "kurssystem-standardsystem",
     // "generelle-fragen",
   ],
   // }
