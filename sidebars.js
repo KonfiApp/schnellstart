@@ -16,6 +16,7 @@ module.exports = {
     "weitere-infos-und-formulare",
     "nutzer-einladen",
     "kurssystem-standardsystem",
+    // "konfi-registrierung-anmeldung",
     // "generelle-fragen",
   ],
   // }

@@ -3,7 +3,7 @@ id: apps-benutzen
 title: Apps benutzen
 ---
 
-import useBaseUrl from '@docusaurus/useBaseUrl'; // Add to the top of the file below the front matter.
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## Grundlegendes
 
@@ -14,7 +14,17 @@ import useBaseUrl from '@docusaurus/useBaseUrl'; // Add to the top of the file b
 - Apple AppStore: https://apps.apple.com/de/app/konfiapp/id1435105031
 
 ## Anmeldung in der KonfiApp (Konfis)
-- Die Konfis melden sich in der App mit ihrem Benutzernamen an.
+### Voraussetzung
+- Der Konfi hat seinen Registrierungs-Code ("Benutzername") erhalten - z.B. `maxmuster12345`
+- Der Konfi hat die KonfiApp heruntergeladen
+### Los geht's
+1. Beim Ersten Öffnen der App: Klick auf "Konfi"
+2. Klick auf "Account erstellen"
+3. Bitte korrekte E-Mail Adresse angeben.
+4. Klick auf"“Account erstellen"
+5. Fertig! Die Anmeldung erfolgt automatisch.
+
+<a href="/KonfiApp-Anleitung-Registrierung.pdf">PDF-Anleitung mit Screenshots: Hier klicken</a>
 
 ***
 
