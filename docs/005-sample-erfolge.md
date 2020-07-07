@@ -3,7 +3,7 @@ id: erfolge
 title: "Beispiele: Erfolge"
 ---
 
-import useBaseUrl from '@docusaurus/useBaseUrl'; // Add to the top of the file below the front matter.
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ### Erfolge erstellen
 

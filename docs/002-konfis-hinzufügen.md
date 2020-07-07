@@ -16,6 +16,8 @@ Alternativ können Sie Ihre Konfis aus einer Excel/ CSV-Datei direkt mit E-Mail 
 - Sie müssen den Konfis ihren Benutzernamen (= "Registrierungs-Code") auf einem gesonderten Weg (am Besten persönlich) zukommen lassen.
 
 ## "Wo + wie melden sich die Konfis an?"
+siehe [Apps benutzen](./apps-benutzen)
+
 ### Bei hinterlegter E-Mail Adresse:
 - [Nutzer direkt per E-Mail einladen](./nutzer-einladen)
 ### Manuelle Einrichtung:
