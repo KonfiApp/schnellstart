@@ -1,7 +1,7 @@
 ---
 id: intro
 title: Intro
-sidebar_label: Intro
+description: "Schnellstart: KonfiApp - Das moderne System für Konfirmanden"
 ---
 ## Über diese Seite
 Auf dieser Seite gibt es kompakt zusammengefasste Infos zur generellen Nutzung der KonfiApp.
