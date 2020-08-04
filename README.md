@@ -4,11 +4,11 @@ KonfiApp Quick-Start guides & FAQ
 
 ### Installation
 ```
-$ yarn
+yarn
 ```
 ### Local Development
 ```
-$ yarn start
+yarn start / yarn dev
 ```
 ### Build
 ```
