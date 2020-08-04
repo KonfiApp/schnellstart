@@ -1,0 +1,8 @@
+version: '3'
+services:
+    httpd:
+        image: pierrezemb/gostatic
+        volumes:
+            - ./build/:/srv/http
+        ports:
+            - 12366:8043
