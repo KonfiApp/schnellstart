@@ -1,47 +1,47 @@
 module.exports = {
-  title: 'KonfiApp',
-  tagline: 'Das moderne System für Konfirmanden',
-  url: 'https://docs.konfiapp.de',
-  baseUrl: '/',
-  favicon: 'img/favicon.png',
+  title: "KonfiApp",
+  tagline: "Das moderne System für Konfirmanden",
+  url: "https://schnellstart.konfiapp.de",
+  baseUrl: "/",
+  favicon: "img/favicon.png",
   themeConfig: {
     navbar: {
-      title: 'KonfiApp',
+      title: "KonfiApp",
       logo: {
-        alt: 'KonfiApp Logo',
-        src: 'img/logo.svg',
+        alt: "KonfiApp Logo",
+        src: "img/logo.svg",
       },
       links: [
         {
-          to: 'docs/intro',
-          activeBasePath: 'docs',
-          label: 'Schnellstart',
-          position: 'left',
+          to: "docs/intro",
+          activeBasePath: "docs",
+          label: "Schnellstart",
+          position: "left",
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Allgemein',
+          title: "Allgemein",
           items: [
             {
-              label: 'Verwaltung',
-              href: 'https://verwaltung.konfiapp.de',
+              label: "Verwaltung",
+              href: "https://verwaltung.konfiapp.de/",
             },
           ],
         },
         {
-          title: 'Rechtliches',
+          title: "Rechtliches",
           items: [
             {
-              label: 'Impressum',
-              href: 'https://konfiapp.de/impressum.php',
+              label: "Impressum",
+              href: "https://konfiapp.de/impressum/",
             },
             {
-              label: 'Datenschutzerklärung',
-              href: 'https://konfiapp.de/impressum.php',
+              label: "Datenschutzerklärung",
+              href: "https://konfiapp.de/datenschutz/",
             },
           ],
         },
@@ -51,13 +51,13 @@ module.exports = {
   },
   presets: [
     [
-      '@docusaurus/preset-classic',
+      "@docusaurus/preset-classic",
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js')
+          sidebarPath: require.resolve("./sidebars.js"),
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       },
     ],
