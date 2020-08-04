@@ -23,3 +23,6 @@ docker-compose up --build --force-recreate -d
 ```
 docker build . -t konfiapp_schnellstart:latest
 ```
+
+## Contributing
+The origin repository can be found at https://gitlab.com/konfiapp/schnellstart.konfiapp.de
