@@ -11,3 +11,8 @@ Siehe https://konfiapp.de/sicherheit/
 Eine DSFA-Prüfung von KonfiApp ist in Arbeit.
 
 Mehrere System betreuer sowie Datenschutzbeauftragte der EKD befassen sich mit KonfiApp.
+
+### Tracking?
+KonfiApp schriebt Log-Dateien in Form von Verwaltungs-Aktionen, Veranstaltungsbesuchen und Anmeldevorgängen aus Sicherheitsgründen mit.
+
+Analyse-Toosl wie z.B. Google Analytics werden nicht verwendet.
