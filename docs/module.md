@@ -32,3 +32,10 @@ Das umfasst unter anderem:
   - Durch das Mehrfache Besuchen von Veranstaltungen Erfolge sammeln
 - Ankündigungen
   - Nachrichten an die Startseite der App pinnen und die Konfis benachrichtigen
+- Umfragen
+  - Die Konfis können auf der Website und in der App Umfragen beantworten.
+  - Sie können in der Verwaltung unter "Umfragen" Umfragen erstellen und die Ergebnisse sofort ansehen
+  - anonym/ persönlich
+  - Multi-Choice/ Freie Eingabe/ Eine Wahlmöglichkeit
+- Bibel lesen
+  - verfügbar in der Verwaltung, in der App und im Webportal
