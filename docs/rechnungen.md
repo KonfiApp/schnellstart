@@ -3,8 +3,6 @@ id: rechnungen
 title: Rechnungen
 ---
 
-import useBaseUrl from '@docusaurus/useBaseUrl'; // Add to the top of the file below the front matter.
-
 ### Allgemein
 - Prinzipiell wird die KonfiApp monatlich zum 1. abgerechnet (für den vergangenen Monat).
 - Falls Sie für den 1. Monat (zur Einrichtung des Dauerauftrags) bereits im Voraus eine Rechnung benötigen, geben Sie bitte Bescheid.
