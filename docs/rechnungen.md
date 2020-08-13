@@ -26,3 +26,7 @@ Eine Vorauszahlung für mehrere Leistungszeiträume ist grundsätzlich **nicht**
 
 Die Informationen für einen Dauerauftrag finden Sie [in der Verwaltung unter "Rechnungen"](https://verwaltung.konfiapp.de/invoices/)
 :::
+
+:::info
+Unterstützung für SEPA-Lastschrifteinzug ist in Arbeit
+:::
