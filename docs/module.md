@@ -26,3 +26,9 @@ Das umfasst unter anderem:
   - Spiele
     - Aufwärmspiele
     - Kennenlernspiele
+- Level
+  - Beim Erreichen bestimmter Punktestufen werden Level freigeschalten
+- Erfolge
+  - Durch das Mehrfache Besuchen von Veranstaltungen Erfolge sammeln
+- Ankündigungen
+  - Nachrichten an die Startseite der App pinnen und die Konfis benachrichtigen
