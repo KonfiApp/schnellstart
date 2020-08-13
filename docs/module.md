@@ -38,7 +38,8 @@ Das umfasst unter anderem:
   - anonym/ persönlich
   - Multi-Choice/ Freie Eingabe/ Eine Wahlmöglichkeit
 - Bibel lesen
-  - verfügbar in der Verwaltung, in der App und im Webportal
+  - 20 Bibeln direkt in der KonfiApp lesen
+  - Verfügbar in der Verwaltung, in der App und im Webportal
 - Konfispruch-Generator
   - Mit dem Konfispruch-Generator (Daten basierend auf konfispruch.de) können Konfis durch Filter an eine Auswahl an Sprüchen gelangen.
 - externe Termine
