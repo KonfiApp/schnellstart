@@ -43,3 +43,8 @@ Das umfasst unter anderem:
   - Mit dem Konfispruch-Generator (Daten basierend auf konfispruch.de) können Konfis durch Filter an eine Auswahl an Sprüchen gelangen.
 - externe Termine
   - Termine der Seite evangelische-termine.de, termine.ekir.de, ekbo-termine.de oder veranstaltungen-ekvw.de direkt mit KonfiApp synchronisieren.
+- Eigene App-Inhalte
+- Gruppen-Chat
+- Gesamt-Chat
+- Konfi-Konfi Chat
+  - Kommunikation der Konfis untereinander
