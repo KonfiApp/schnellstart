@@ -39,3 +39,7 @@ Das umfasst unter anderem:
   - Multi-Choice/ Freie Eingabe/ Eine Wahlmöglichkeit
 - Bibel lesen
   - verfügbar in der Verwaltung, in der App und im Webportal
+- Konfispruch-Generator
+  - Mit dem Konfispruch-Generator (Daten basierend auf konfispruch.de) können Konfis durch Filter an eine Auswahl an Sprüchen gelangen.
+- externe Termine
+  - Termine der Seite evangelische-termine.de, termine.ekir.de, ekbo-termine.de oder veranstaltungen-ekvw.de direkt mit KonfiApp synchronisieren.
