@@ -7,6 +7,10 @@ title: Rechnungen
 - Prinzipiell wird die KonfiApp monatlich zum 1. abgerechnet (für den vergangenen Monat).
 - Falls Sie für den 1. Monat (zur Einrichtung des Dauerauftrags) bereits im Voraus eine Rechnung benötigen, geben Sie bitte Bescheid.
 
+### Rechnungen einsehen
+- Rechnungen bekommen Sie per E-Mail (bei der Einrichtung Ihrer KonfiApp angegeben) zugeschickt
+- Rechnugen sind jederzeit in der Verwaltung unter "Rechnugnen" einsehbar (Berechtigung notwendig) - auch wenn Ihr Account gesperrt ist.
+
 :::info
 Eine Vorauszahlung für mehrere Leistungszeiträume ist grundsätzlich **nicht** möglich.
 
