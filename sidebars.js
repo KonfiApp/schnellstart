@@ -18,6 +18,7 @@ module.exports = {
     "kurssystem-standardsystem",
     "generelle-fragen",
     "module",
+    "bibel-lesen",
     // "konfi-registrierung-anmeldung",
   ],
   // }
