@@ -3,8 +3,6 @@ id: verträge
 title: Vertragsinformationen
 ---
 
-import useBaseUrl from '@docusaurus/useBaseUrl'; // Add to the top of the file below the front matter.
-
 ### Allgemein
 - Zur Benutzung der KonfiApp werden 2 Verträge mit der Gemeinde abgeschlossen:
   - Dienstleistungsvertrag
@@ -23,3 +21,6 @@ import useBaseUrl from '@docusaurus/useBaseUrl'; // Add to the top of the file b
       - Der Vertrag ist angepasst auf DS-GVO- sowie DSG-EKD
     - Österreich:
       - Der Vertrag ist angepasst auf DS-GVO- sowie DatSchG.
+
+### Vertragsverwaltung
+- Die Verträge finden Sie in der Verwaltung im Seitenmenü unter "Vertragsverwaltung" (Berechtigung notwendig)
