@@ -15,4 +15,4 @@ Mehrere System betreuer sowie Datenschutzbeauftragte der EKD befassen sich mit K
 ### Tracking?
 KonfiApp schriebt Log-Dateien in Form von Verwaltungs-Aktionen, Veranstaltungsbesuchen und Anmeldevorgängen aus Sicherheitsgründen mit.
 
-Analyse-Toosl wie z.B. Google Analytics werden nicht verwendet.
+Analyse-Tools wie z.B. Google Analytics werden nicht verwendet.
