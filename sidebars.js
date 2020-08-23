@@ -19,6 +19,7 @@ module.exports = {
     "generelle-fragen",
     "module",
     "bibel-lesen",
+    "codesysteme",
     // "konfi-registrierung-anmeldung",
   ],
   // }
